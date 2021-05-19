@@ -9,7 +9,7 @@ are kept to a minimum.
 When you make your wireframe be sure to focus on where the content of your webpage will be, if there will
 be images, where content goes, titles and subtitles. If there are links to other pages where are the links?
 
-We've provided a checklist
+We've provided a checklist, have one of each on your wireframe
 
 ### Wireframe Checklist
 
