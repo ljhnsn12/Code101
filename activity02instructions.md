@@ -1,6 +1,6 @@
 ### Building your webpages with HTML
 
-Take a look at the html code that's been put into Slack as well as your wireframe
+Take a look at the html code that's been put into Slack as well as your wireframe.
 Use what you've created to help you structure your webpages.
 
 Don't be afraid to look stuff up or reach out for help if you need it.
