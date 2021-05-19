@@ -19,5 +19,5 @@ Here's a checklist of somethings you may want to add to  your webpage
 #### Helpful links
 Here are some links that may help you with styling your CSS
 
-[Mozilla Developers Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-[W3Schools CSS Tutorial](https://www.w3schools.com/css/css_syntax.asp)
+* [Mozilla Developers Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+* [W3Schools CSS Tutorial](https://www.w3schools.com/css/css_syntax.asp)
