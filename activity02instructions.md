@@ -1,3 +1,7 @@
+## Multiple webpages
+If you are in a group of 4 then you will have two webpages. You'll make a second html file in your
+repl for the second webpage, then you'll link to that second webpage from the first
+
 ### Building your webpages with HTML
 
 Take a look at the html code that's been put into Slack as well as your wireframe.
