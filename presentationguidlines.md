@@ -10,4 +10,4 @@ what the webpage is about and what I can get from the webpage.
 - Show off a part of the webpage you're particularly proud of
 - Mention a part of the code that took a while to get working
 - Not everyone needs to speak during the presentaiton, but everyone should contribute
-- Should be no longer than 3 minutes
+- Should be no longer than 5 minutes
