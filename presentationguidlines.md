@@ -13,7 +13,7 @@ what the webpage is about and what I can get from the webpage.
 - Should be no longer than 5 minutes
 
 ### How to Present
-One member of the team will share their screen and present
+One member of the team will share their screen while they and other members present
 the webpage and optionally the html, css code to the class
 
 Good luck
