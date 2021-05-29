@@ -11,3 +11,9 @@ what the webpage is about and what I can get from the webpage.
 - Mention a part of the code that took a while to get working
 - Not everyone needs to speak during the presentaiton, but everyone should contribute  to presentatin prep
 - Should be no longer than 5 minutes
+
+### How to Present
+One member of the team will share their screen and present
+the webpage and optionally the html, css code to the class
+
+Good luck
