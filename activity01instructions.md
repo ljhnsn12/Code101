@@ -26,4 +26,8 @@ We've provided a checklist, have one of each on your wireframe
 - [ ] Images
 - [ ] Links
 
+Here's and example of a wireframe
+
+***
+
 ![Wireframe](wireframe.png)
