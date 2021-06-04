@@ -8,7 +8,7 @@ Within the groups of 4, two people will work together on each webpage
 ## Creating Your Wireframe
 
 Remember that a website wireframe is a "visual guide that represents the skeletal framework of a website"
-Think of it as an outline to your webpage. It provides page structure and layout, styling, color, and graphics
+Think of it as an outline to your webpage. It provides page structure and layout; styling, color, and graphics
 are kept to a minimum.
 
 ### What tools to use
