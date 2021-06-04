@@ -5,7 +5,7 @@
 For presentations we want to show off our webpages and their functionality!
 
 - Present the webpage as if you were presenting it to me as a user, telling me
-what the webpage is about and what I can get from the webpage.
+what the webpage is about and what I can get from the webpage. Think: Why should we visit your webpage?
 
 - Show off a part of the webpage you're particularly proud of
 - Mention a part of the code that took a while to get working
