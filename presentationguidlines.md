@@ -9,7 +9,7 @@ what the webpage is about and what I can get from the webpage. Think: Why should
 
 - Show off a part of the webpage you're particularly proud of
 - Mention a part of the code that took a while to get working
-- Not everyone needs to speak during the presentaiton, but everyone should contribute  to presentatin prep
+- Everyone needs to participate in the presentation letting us know what you contributed to the group
 - Should be no longer than 5 minutes
 
 ### How to Present
