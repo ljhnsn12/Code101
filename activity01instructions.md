@@ -33,7 +33,7 @@ We've provided a checklist, have one of each on your wireframe
 - [ ] Images
 - [ ] Links
 
-Here's and example of a wireframe
+Here's an example of a wireframe
 
 ***
 
