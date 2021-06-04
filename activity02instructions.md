@@ -1,6 +1,12 @@
 ## Multiple webpages
-If you are in a group of 4 then you will have two webpages. You'll make a second html file in your
-repl for the second webpage, then you'll link to that second webpage from the first
+Every group will create their own webpages using the wireframe they made previously as a guide. Every
+member of the group should contribute to the webpage in some meaningful way.
+
+### Inviting your teamates
+In replit you can invite your teamates to the work on the same project as you, just like in google docs
+Click on the **+invite** button at the top left of the screen. I suggest you then choose the copy url option
+and then send the invite url to your teamates in the zoom breakout room group chat or via slack whichever
+is easiest.
 
 ### Building your webpages with HTML
 
