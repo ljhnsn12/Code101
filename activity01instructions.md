@@ -26,4 +26,4 @@ We've provided a checklist, have one of each on your wireframe
 - [ ] Images
 - [ ] Links
 
-![Wireframe](Wireframe.pdf)
+![Wireframe](wireframe.pdf)
