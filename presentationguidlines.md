@@ -14,6 +14,6 @@ what the webpage is about and what I can get from the webpage. Think: Why should
 
 ### How to Present
 One member of the team will share their screen while they and other members present
-the webpage and optionally the html, css code to the class
+the webpage and code to the class
 
-Good luck
+Good job and good luck!
