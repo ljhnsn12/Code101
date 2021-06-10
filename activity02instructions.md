@@ -3,10 +3,12 @@ Every group will create their own webpages using the wireframe they made previou
 member of the group should contribute to the webpage in some meaningful way.
 
 ### Inviting your teamates
-In replit you can invite your teamates to the work on the same project as you, just like in google docs
-Click on the **+invite** button at the top left of the screen. I suggest you then choose the copy url option
-and then send the invite url to your teamates in the zoom breakout room group chat or via slack whichever
-is easiest.
+In replit you can invite your teamates to the work on the same project as you, just like in google docs. 
+The instructions on how to do that are listed below. All of your group members should be able to edit the project.
+
+- [ ] Click on the **+invite** button at the top left of the screen
+- [ ] Copy the url
+- [ ] Send the invite url to your teamates via Zoom or Slack
 
 ### Building your webpages with HTML
 
